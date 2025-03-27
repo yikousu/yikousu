@@ -12,6 +12,8 @@ I'm a passionate Java backend developer who loves writing clean and efficient co
 
 I regularly write about my experiences and share tutorials on my blog. Check it out!
 
+- [Hac-Blog (GitHub Pages)](https://yikousu.github.io/hac-blog/)
+
 - [My Blog on CSDN](https://blog.csdn.net/m0_64289188?type=blog)
 
 ## Languages and Tools
